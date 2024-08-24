@@ -1,0 +1,47 @@
+[
+  {
+    "posterName": "Niranjan Kushwaha",
+    "posterImage": "https://lh3.googleusercontent.com/ogw/AF2bZyg0Dubym2oI9xVQyi6ssgah8GyctRSYTBLJmkxdheY8WxY=s64-c-mo",
+    "timeAgo": "5mins ago",
+    "content": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+    "commentsCount": 2,
+    "icon":"👋",
+    "isCommentsVisible":false,
+    "comments": [
+      {
+        "posterName": "Jane Cooper",
+        "posterImage": "https://randomuser.me/api/portraits/med/women/25.jpg",
+        "timeAgo": "2mins ago",
+        "content": "This is a great post!",
+        "comments": [
+          {
+            "posterName": "Wade Warren",
+            "posterImage": "https://randomuser.me/api/portraits/med/women/26.jpg",
+            "timeAgo": "1min ago",
+            "content": "I agree with Jane!",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "posterName": "Marvin McKinney",
+    "posterImage": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "timeAgo": "8mins ago",
+    "icon": "😔",
+    "content": "Velit officia consequat duis enim velit mollit.",
+    "commentsCount": 1,
+    "isCommentsVisible":false,
+    "comments": [
+      {
+        "posterName": "Jane Cooper",
+        "posterImage": "https://randomuser.me/api/portraits/med/women/28.jpg",
+        "timeAgo": "1mins ago",
+        "content": "This is a very helpful post!"
+      }
+    ]
+  }
+]
+
+  
