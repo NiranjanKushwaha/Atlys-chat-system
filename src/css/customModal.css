@@ -1,0 +1,58 @@
+/*  custom modal css starts here */
+
+.custom-modal {
+  position: relative;
+  background-color: var(--card-bg);
+}
+.custom-modal-header {
+  padding: 16px;
+  /* border-bottom: 1px solid #2c2c2e; */
+}
+
+.custom-modal-footer {
+  position: sticky;
+  border-top: 1px solid var(--card-bg);
+}
+
+.custom-modal-lg {
+  width: 100%;
+  height: 100vh;
+}
+
+.custom-modal-body {
+  overflow: hidden;
+  overflow-y: auto;
+  background-color: var(--card-bg);
+}
+
+.custom-modal-lg .custom-modal-body {
+  height: 80vh;
+}
+
+.custom-modal-md {
+  width: 70%;
+  height: 70vh;
+}
+
+.custom-modal-md .custom-modal-body {
+  height: 55vh;
+}
+
+.custom-modal-lg .custom-modal-footer {
+  height: 60px;
+  position: fixed;
+  bottom: 0;
+  width: inherit;
+}
+
+.custom-modal-sm {
+  width: 45vh;
+  max-height: 45vh;
+  background-color: var(--card-bg);
+}
+
+.custom-modal-sm .custom-modal-body {
+  max-height: 52vh;
+  word-break: break-all;
+  overflow: hidden;
+}

@@ -33,3 +33,11 @@
 .hover-effect:hover {
   color: #ddd;
 }
+
+.custom-modal-body .loginScreen{
+  background-color: var(--card-bg);
+}
+
+.custom-modal-body  .shadow-lg{
+box-shadow: none;
+}

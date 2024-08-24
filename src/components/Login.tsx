@@ -7,10 +7,7 @@ const Login: React.FC = () => {
   const [isPasswordVisible, setIsPasswordVisible] = useState<boolean>(false);
   const navigate = useNavigate();
   return (
-    <div className="min-h-screen bg-black text-white main-login-container">
-      <div className="mx-auto mb-4 text-center">
-        <img src={Logo} alt="atlys_logo" style={{margin:'0 auto'}} />
-      </div>
+    <div className="min-h-screen bg-black text-white loginScreen">
       <div className="flex items-center justify-center">
         <div className="post-card text-white p-8 rounded-lg shadow-lg max-w-sm w-full">
           <div className="text-center mb-8">
